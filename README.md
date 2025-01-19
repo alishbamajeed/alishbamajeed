@@ -11,7 +11,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 👯 I’m looking to collaborate on [Open Source Project/Any Project]
 - 🤔 I’m looking for help with [Technology/Skill/Project]
 - 💬 Ask me about [Technology/Skill]
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
+- 📫 How to reach me: [Your Email](mailto:alishbamajeed22@gmail.com)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: [Fun Fact About You]
 
@@ -21,20 +21,19 @@ I'm a passionate software developer with a keen interest in web development, dat
 - **Frameworks/Libraries:** React, Node.js, Django
 - **Tools:** Git, Docker, VS Code
 - **Databases:** MySQL, MongoDB
+Next.js
 
 ## Projects
 
-### [Project 1](project link)
-Description of project 1.
+### [Portfolio](https://tailwind-css-portfolio-pi.vercel.app/)
+This is my tailwindCss portfolio.
 
-### [Project 2](project link)
-Description of project 2.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/alishba-majeed-5099b8310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- [Personal Website](https://tailwind-css-portfolio-pi.vercel.app/)
 
 ## GitHub Stats
 
